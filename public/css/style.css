@@ -129,6 +129,11 @@ background-color: #fff;
 margin-bottom: 2rem;
 }
 
+.item a {
+  font-size: 30px;
+  color: #000000;
+}
+
 .item div:first-child {
 flex: 1;
 background-size: cover;
